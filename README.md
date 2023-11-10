@@ -1,2 +1,3 @@
 # 千樱Cherrybot_for_IDNS
+为idnsportal量身打造的聊天室bot
 Cherrybot designed for idnsportal
